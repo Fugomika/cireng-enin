@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%">
+      <stop offset="0%" stop-color="#FDEBD2"/>
+      <stop offset="100%" stop-color="#EFC494"/>
+    </radialGradient>
+    <radialGradient id="c" cx="40%" cy="35%">
+      <stop offset="0%" stop-color="#F6C878"/>
+      <stop offset="70%" stop-color="#E8A34C"/>
+      <stop offset="100%" stop-color="#CE8433"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="480" rx="320" ry="38" fill="#38200F" opacity=".08"/>
+  <ellipse cx="400" cy="390" rx="300" ry="100" fill="#FDFEFF"/>
+  <ellipse cx="400" cy="378" rx="272" ry="86" fill="#F2F5F8"/>
+  <path d="M250 320 l60 -55 l60 55 z" fill="url(#c)"/>
+  <path d="M430 335 l55 -50 l55 50 z" fill="url(#c)"/>
+  <circle cx="280" cy="390" r="42" fill="url(#c)"/>
+  <circle cx="390" cy="405" r="45" fill="url(#c)"/>
+  <circle cx="500" cy="392" r="40" fill="url(#c)"/>
+  <path d="M240 375 q160 -50 330 5" stroke="#9C6B33" stroke-width="16" fill="none" stroke-linecap="round" opacity=".85"/>
+  <path d="M265 405 q140 -36 280 4" stroke="#5A3417" stroke-width="8" fill="none" stroke-linecap="round" opacity=".8"/>
+  <path d="M625 330 a32 32 0 0 1 -56 19 z" fill="#B7D66A" stroke="#7FA83E" stroke-width="5"/>
+  <g fill="#C06F22" opacity=".5">
+    <circle cx="300" cy="300" r="4"/><circle cx="470" cy="315" r="4"/>
+    <circle cx="350" cy="395" r="4"/><circle cx="520" cy="400" r="4"/>
+  </g>
+  <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#38200F">Batagor Bandung Jempol</text>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#38200F" opacity=".55">foto contoh — ganti dengan foto asli ya!</text>
+</svg>

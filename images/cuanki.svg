@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%">
+      <stop offset="0%" stop-color="#FFEEDC"/>
+      <stop offset="100%" stop-color="#F3C9A0"/>
+    </radialGradient>
+    <radialGradient id="kuah" cx="50%" cy="30%">
+      <stop offset="0%" stop-color="#F4D8A6"/>
+      <stop offset="100%" stop-color="#E3B878"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="490" rx="300" ry="36" fill="#38200F" opacity=".08"/>
+  <ellipse cx="400" cy="330" rx="230" ry="70" fill="#FDFEFF"/>
+  <path d="M170 330 Q170 470 400 470 Q630 470 630 330 Z" fill="#F2F5F8"/>
+  <ellipse cx="400" cy="330" rx="200" ry="58" fill="url(#kuah)"/>
+  <circle cx="330" cy="315" r="38" fill="#E9E2D2"/>
+  <circle cx="440" cy="335" r="34" fill="#E9E2D2"/>
+  <rect x="380" y="285" width="66" height="56" rx="10" fill="#D9C9A8" transform="rotate(-8 413 313)"/>
+  <rect x="285" y="330" width="60" height="50" rx="9" fill="#D9C9A8" transform="rotate(10 315 355)"/>
+  <g stroke="#4E7A40" stroke-width="6" stroke-linecap="round">
+    <path d="M355 300 l22 -8 M465 320 l20 -10 M320 365 l24 -6"/>
+  </g>
+  <circle cx="520" cy="330" r="16" fill="#C43B18"/>
+  <path d="M600 380 a34 34 0 0 1 -60 20 z" fill="#B7D66A" stroke="#7FA83E" stroke-width="5"/>
+  <g stroke="#B98A5A" stroke-width="7" fill="none" stroke-linecap="round" opacity=".75">
+    <path d="M340 230 q-9 -17 2 -32 q9 -13 2 -28"/>
+    <path d="M410 220 q-9 -17 2 -32 q9 -13 2 -28"/>
+    <path d="M475 235 q-9 -17 2 -32 q9 -13 2 -28"/>
+  </g>
+  <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#38200F">Cuanki Bandung</text>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#38200F" opacity=".55">foto contoh — ganti dengan foto asli ya!</text>
+</svg>

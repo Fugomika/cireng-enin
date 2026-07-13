@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%">
+      <stop offset="0%" stop-color="#FBE6C4"/>
+      <stop offset="100%" stop-color="#EDC089"/>
+    </radialGradient>
+    <radialGradient id="c" cx="40%" cy="35%">
+      <stop offset="0%" stop-color="#F9C86B"/>
+      <stop offset="70%" stop-color="#EDA23F"/>
+      <stop offset="100%" stop-color="#D9862E"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <ellipse cx="400" cy="470" rx="330" ry="40" fill="#38200F" opacity=".08"/>
+  <ellipse cx="400" cy="400" rx="320" ry="110" fill="#4E7A40"/>
+  <path d="M120 400 Q400 355 680 400" stroke="#3A5C30" stroke-width="4" fill="none" opacity=".5"/>
+  <rect x="210" y="290" width="150" height="120" rx="30" fill="url(#c)" transform="rotate(42 285 350)"/>
+  <rect x="430" y="305" width="155" height="125" rx="30" fill="url(#c)" transform="rotate(47 507 367)"/>
+  <rect x="330" y="230" width="140" height="112" rx="28" fill="url(#c)" transform="rotate(40 400 286)"/>
+  <g fill="#8A5530">
+    <ellipse cx="270" cy="345" rx="14" ry="9" transform="rotate(-20 270 345)"/>
+    <ellipse cx="300" cy="365" rx="14" ry="9" transform="rotate(25 300 365)"/>
+    <ellipse cx="495" cy="360" rx="14" ry="9" transform="rotate(-15 495 360)"/>
+    <ellipse cx="520" cy="385" rx="14" ry="9" transform="rotate(30 520 385)"/>
+    <ellipse cx="390" cy="280" rx="13" ry="8" transform="rotate(-25 390 280)"/>
+  </g>
+  <g fill="#C06F22" opacity=".55">
+    <circle cx="255" cy="380" r="4"/><circle cx="320" cy="335" r="4"/>
+    <circle cx="470" cy="395" r="4"/><circle cx="540" cy="350" r="4"/>
+    <circle cx="420" cy="305" r="4"/>
+  </g>
+  <text x="400" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#38200F">Cireng Kacang Full</text>
+  <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#38200F" opacity=".55">foto contoh — ganti dengan foto asli ya!</text>
+</svg>
